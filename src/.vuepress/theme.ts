@@ -40,11 +40,11 @@ export default hopeTheme({
 
   encrypt: {
     config: {
-      "/c-course/01.html": ["c1", "aiyc"],
-      "/c-course/02.html": ["c2", "aiyc"],
-      "/c-course/03.html": ["c3", "aiyc"],
-      "/c-course/04.html": ["c4", "aiyc"],
-      "/c-course/05.html": ["c5", "aiyc"],
+      "/01.html": ["c1", "aiyc"],
+      "/02.html": ["c2", "aiyc"],
+      "/03.html": ["c3", "aiyc"],
+      "/04.html": ["c4", "aiyc"],
+      "/05.html": ["c5", "aiyc"],
     },
   },
 
