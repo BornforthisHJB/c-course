@@ -8,7 +8,7 @@ bgImageDark: /home/6-dark.svg
 heroFullScreen: true
 bgImageStyle:
     background-attachment: fixed
-heroText: 编程一对一辅导
+heroText: C 语言专栏
 tagline: Python｜Java｜C｜Unity｜数据结构｜Web｜代做✨
 actions:
     - text: Memoirs 🧭
