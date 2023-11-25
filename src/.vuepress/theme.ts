@@ -34,17 +34,18 @@ export default hopeTheme({
   // sidebar
   sidebar,
 
-  footer: "默认页脚",
+  footer: '长期招收编程一对一学员!微信:Jiabcdefh, <a href="https://beian.miit.gov.cn/" target="_blank">闽ICP备19021486号-6</a><a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=35030502000172" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><img src="/beian.png" style="float:left;"/>闽公网安备 35030502000172号</a>',
+
 
   displayFooter: true,
 
   encrypt: {
     config: {
       "/01.html": ["c1", "aiyc"],
-      "/02.html": ["c2", "aiyc"],
-      "/03.html": ["c3", "aiyc"],
-      "/04.html": ["c4", "aiyc"],
-      "/05.html": ["c5", "aiyc"],
+      "/02.html": ["c22", "aiyc"],
+      "/03.html": ["c333", "aiyc"],
+      "/04.html": ["c4444", "aiyc"],
+      "/05.html": ["c55555", "aiyc"],
     },
   },
 
